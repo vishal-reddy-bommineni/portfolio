@@ -12,7 +12,7 @@ export const profile = {
   headline: 'I turn messy clinical, genomic and business data into models people can trust.',
   rotating: ['healthcare analytics', 'statistical genomics', 'machine learning', 'clinical data'],
   intro:
-    'Graduate Research Assistant at UConn Health, where I analyse RNA-Seq data from colon biopsies. I build end-to-end work in Python, R and SQL, from cohort definition and statistics to validated machine learning and dashboards, and I care about the part most projects skip: checking that the result holds up.',
+    'Graduate Student Researcher at UConn Health, where I analyse RNA-Seq data from colon biopsies. I build end-to-end work in Python, R and SQL, from cohort definition and statistics to validated machine learning and dashboards, and I care about the part most projects skip: checking that the result holds up.',
   // Put the PDF in public/resume/ with exactly this file name.
   // One entry = a direct "Resume" button. Add a second entry to turn it into a menu.
   resumes: [{ label: 'Resume', file: '/resume/Vishal_Reddy_Bommineni_Resume.pdf' }]
@@ -40,7 +40,7 @@ export const about = {
 
 export const experience = [
   {
-    role: 'Graduate Research Assistant',
+    role: 'Graduate Student Researcher',
     org: 'UConn Health',
     place: 'Farmington, CT',
     period: 'Feb 2026 – Present',
